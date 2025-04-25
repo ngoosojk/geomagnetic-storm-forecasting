@@ -1,7 +1,7 @@
 
 # Geomagnetic Storm Forecasting Using NASA OMNI Data with Machine Learning
 
-This project will involve developing a geomagnetic storm forecasting model using OMNI 2 space weather data from the NASA OMNIWEB website.
+This project will involve developing a geomagnetic storm forecasting model using NASA's OMNI 2 space weather data.
 
 The idea is to train a Long Short-Term Memory (LSTM) model to forecast geomagnetic storm parameters such as the planetary Kp index and the Dst Index.
 
