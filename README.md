@@ -41,10 +41,10 @@ jupyter notebook Analysis.ipynb
 
 ## 🧠 Modeling Approach
 
-- **LSTM (Long Short-Term Memory)** neural networks are used for time-series forecasting.
+- **LSTM (Long Short-Term Memory)** neural networks will be used for time-series forecasting.
 - The **multi-class learning** approach will be utilised to predict Kp and Dst simultaneously.
-- **Autocorrelation (ACF) and Partial Autocorrelation (PACF)** are used to analyse temporal dependencies and guide feature selection.
-- Missing values are handled using **time-aware strategies** such as interpolation, masking, or LSTM’s inherent ability to manage sequences with missing data.
+- **Autocorrelation (ACF) and Partial Autocorrelation (PACF)** will be used to analyse temporal dependencies and guide feature selection.
+- Missing values will be handled using **time-aware strategies** such as interpolation, masking, or LSTM’s inherent ability to manage sequences with missing data.
 
 ---
 
